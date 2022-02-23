@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @petelork
+- 👋 Hi, I’m Peter
 - 👀 I’m interested in domain driven design, software architecture, graph databases, spatial databases, semantics, sustainability.
 - 🌱 I’m currently learning ASP.NET Core, authentication
 - 💞️ I’m looking to collaborate on supporting sustainability by information technology
